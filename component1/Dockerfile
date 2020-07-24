@@ -1,4 +1,4 @@
-FROM e:0.0.1
+FROM luukvv/base:0.0.1
 
 ARG C_NAME
 ARG C_VERSION
